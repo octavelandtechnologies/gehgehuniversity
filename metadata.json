@@ -1,0 +1,6 @@
+{
+  "name": "University of Wisdom and Understanding",
+  "description": "A fun, interactive portal for Nigerian social influencer GehGeh's fans to test their level of wisdom and generate their custom student ID card.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
